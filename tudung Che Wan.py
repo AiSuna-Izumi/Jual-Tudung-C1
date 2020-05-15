@@ -24,7 +24,7 @@ while choose !=2:
     print ("RM :",price)
 
     total=price+total
-    st=int(input ("PRESS 1 TO ADD MORE or 2 TO END SHOPPING: "))
+    st=int(input ("PRESS 1 TO CONTINUE ADD MORE or 2 TO END SHOPPING: "))
     choose=st
     if choose==1:
         continue
