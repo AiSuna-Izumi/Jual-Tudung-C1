@@ -30,7 +30,7 @@ while choose !=2:
         continue
     elif choose==2:
         break
-    else:
+    else :
         continue
     
 print("YOUR TOTAL ITEM IS ")
